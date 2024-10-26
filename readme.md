@@ -3,4 +3,4 @@ Hi everyone, This is a simple freelance project that I made for a stealth startu
 The implementation leverages a convolutional neural network (CNN) for liveness detection and the face_recognition library for accurate face matching. The project setup includes loading the liveness model weights, reading known user data, and configuring the video capture. The main loop processes video frames for liveness and face recognition, updating the display with real-time results. This project is ideal for security applications where verifying the presence of live individuals is very crucial.
 
 
-Link to Video- https://drive.google.com/drive/my-drive
+Link to Video-https://drive.google.com/file/d/10Ga7b1olfC7OzAr8zKX8U-z4KDHVzDFf/view?usp=sharing
